@@ -2,6 +2,7 @@
 
 ### TOC
 - [루이비통과 토요타가 실제 가방과 자동차까지 NFT화하는 이유](https://github.com/HaleyRyu/NFT-Article-Archive#%EB%A3%A8%EC%9D%B4%EB%B9%84%ED%86%B5%EA%B3%BC-%ED%86%A0%EC%9A%94%ED%83%80%EA%B0%80-%EC%8B%A4%EC%A0%9C-%EA%B0%80%EB%B0%A9%EA%B3%BC-%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B9%8C%EC%A7%80-nft%ED%99%94%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [월가에서 바라보는 NFT 열풍 + 크립토 시장 리뷰]()
 - [NFT의 가치는 어디서 나올까: 가치의 근원에 대하여]()
 - [NFT의 가치는 어디에서 나올까 II: 미술과 정체성]()
 - [현대미술 vs 고전미술의 진짜 차이점? (ft.KIAF)]()
@@ -39,3 +40,29 @@
 - 새로운 소비 시장 확장
     - 전통적인 게임에서의 아이템은 희소성 개념이 크게 없었지만, 블록체인 게임 안에서의 아이템은 독점성과 희소성을 줄 수 있다.
 - 젊은 층을 고객으로 끌어들이기 위해
+
+### [월가에서 바라보는 NFT 열풍 + 크립토 시장 리뷰](https://youtu.be/yMo_vIl5tAs?t=1718)
+28:38 유독 대기업들의 참여가 활발한 '한국시장의 NFT 열풍' 에 대한 의견.
+
+NCSoft, Kakao, Line, Hybe 모두가 NFT 에 뛰어드는 이 상황을 어떻게 바라봐야하고, 그래서 무엇에 집중해야하는지에 대한 힌트를 얻을 수 있었다.
+
+1. Metaverse
+- Metaverse 자체를 만든다기보다 그 안에서 쓰일 수 있는 Identification 에 사용될 도구를 만드는것에 집중
+
+2. Play-to-earn
+- Crypto 와 관련없는 사람들을 Crypto 영역으로 불러오기
+- Strong Global IP + Blockchain 의 조합이 기대됨
+- 현재 NFT 게임들은 Cyrpto 영역에 있는 사람들에게만 한정된 경향이 있음.
+- 일반 대중들﹣Kakao/Line Mobile Games 유저들﹣에게까지 Crypto/NFT 프로젝트가 닿기 위해서는 유통 채널 확보가 중요.
+
+3. Gamification of Defi
+- 금융 서비스/플랫폼 + NFT
+
+**미국시장의 키워드**
+- NFT 시장에 누가 뛰어드는지가 이슈되는 상황은 지났고 이제는 '그래서 뭘 만들건지' 에 대해.
+- NFT Algo-trading Funds
+- NFTs and physical assets
+- 단순 play to earn 을 넘어선 MMORPG Games 등
+
++) [영상에도 언급되었던 NYC Cryptocurrency 소식](https://www.bloomberg.com/news/articles/2021-11-08/new-york-gets-own-cryptocurrency-after-adams-touts-bitcoin?fbclid=IwAR26NztqykQFXUQO_LKULgVbcc_u7RmxW59-vEQTV9il05TWKA4pExNJ8Rw)
+
