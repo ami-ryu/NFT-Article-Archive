@@ -2,7 +2,7 @@
 
 ### TOC
 - [루이비통과 토요타가 실제 가방과 자동차까지 NFT화하는 이유](https://github.com/HaleyRyu/NFT-Article-Archive#%EB%A3%A8%EC%9D%B4%EB%B9%84%ED%86%B5%EA%B3%BC-%ED%86%A0%EC%9A%94%ED%83%80%EA%B0%80-%EC%8B%A4%EC%A0%9C-%EA%B0%80%EB%B0%A9%EA%B3%BC-%EC%9E%90%EB%8F%99%EC%B0%A8%EA%B9%8C%EC%A7%80-nft%ED%99%94%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
-- [월가에서 바라보는 NFT 열풍 + 크립토 시장 리뷰]()
+- [월가에서 바라보는 NFT 열풍 + 크립토 시장 리뷰](https://github.com/HaleyRyu/NFT-Article-Archive/blob/main/README.md#%EC%9B%94%EA%B0%80%EC%97%90%EC%84%9C-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-nft-%EC%97%B4%ED%92%8D--%ED%81%AC%EB%A6%BD%ED%86%A0-%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B7%B0)
 - [NFT의 가치는 어디서 나올까: 가치의 근원에 대하여]()
 - [NFT의 가치는 어디에서 나올까 II: 미술과 정체성]()
 - [현대미술 vs 고전미술의 진짜 차이점? (ft.KIAF)]()
